@@ -6,4 +6,5 @@
 - I love the merge of design and coding.
 
 Feel free to reach me at: tran.helen232@gmail.com
+& visit my website at : helentran.ca
 
