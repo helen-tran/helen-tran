@@ -1,7 +1,6 @@
 ### Hi there 👋
-#### I am based in Montreal, Quebec and I'm currently studying at a bootcamp in full stack web development at Concordia University. 
+#### I am based in Montreal, Quebec and I graduated in full stack web development at Concordia University. 
 #### Fun Facts! 
-- I am currently learning the back-end: Node and MongoDB
 - I have a background in graphic design 
 - I love the merge of design and coding.
 
